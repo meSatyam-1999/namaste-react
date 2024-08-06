@@ -1,0 +1,19 @@
+** IGNITING OUR APP **
+
+
+Github setting  - 
+    > Create a github repo "Namaste_react"
+
+    > git init   -  for initializing git inside our project
+
+    > git branch -M main  - To change master branch to main branch
+
+    > git add .  - To add all the files in github
+
+    > git commit -m "episode-01"  - To add first commit msg in github.
+
+    > git remote add origin https://github.com/meSatyam-1999/namaste-react.git  - to add in that particular repo in github
+
+    > git push origin main -  It push all the codes in our repository.
+
+    **** BOOM Now we can see that our code is in Github ****
